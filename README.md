@@ -22,9 +22,6 @@ This project demonstrates the implementation of a network defense lab using virt
   - Block social media access
   - Block inbound FTP
 
-## 📄 Documentation
-The full report can be found in [`NPS-Project-Report.pdf`](NPS-Project-Report.pdf)
-
 ## 📌 Key Takeaways
 - Hands-on configuration of IDS and firewall rules.
 - Realistic simulation of network attacks.
